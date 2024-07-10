@@ -1,0 +1,45 @@
+.container{
+    border: 1px solid;
+    padding-bottom: 20px;
+   
+}
+
+.Subscribe{
+    background-color: rgba(239, 244, 244, 0.834);
+    padding: 20px;
+}
+.input1{
+  
+    width: 1055px;
+    padding-right: 5px;
+}
+label{
+    font-weight: bold;
+}
+::placeholder{
+    padding-left: 5px;
+}
+
+.center{
+    border: 3px solid rgba(239, 244, 244, 0.834);
+    padding: 20px;
+
+}
+.center1{
+    border: 3px solid rgba(239, 244, 244, 0.834);
+    padding: 20px;
+    background-color: rgba(239, 244, 244, 0.834);
+
+}
+button{
+    width: 1055px;
+    background-color: rgb(8, 153, 10);
+    color: white;
+    border-style: none;
+    
+}
+h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
